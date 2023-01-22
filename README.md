@@ -1,6 +1,9 @@
 # go-database-material
 这个项目主要是记录在学习数据库知识时，遇到的一些好的学习资料。
 
+## Database
+1. [pingcap数据库学习资料](https://github.com/pingcap/awesome-database-learning)
+
 ## 磁盘和存储引擎综述
 1. [磁盘IO那些事](https://tech.meituan.com/2017/05/19/about-desk-io.html)
 2. [数据存储与检索(详解b+树存储引擎(innodb、boltdb、buntdb等)、lsm树存储引擎(bitcask、moss、pebble、leveldb等)]( https://www.bilibili.com/video/BV1Zv411G7ty/?share_source=copy_web&vd_source=c4c33172b0b63f4ed3d6a29bfd461101)
