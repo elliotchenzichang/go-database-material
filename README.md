@@ -16,6 +16,7 @@
 4. [tiny-bitcask](https://github.com/elliotchenzichang/tiny-bitcask) 
 5. [nutsdb设计与实现 Go夜读分享](https://www.bilibili.com/video/BV1T34y1x7AS/?spm_id_from=333.337.search-card.all.click&vd_source=0989a2ca09448a0642a2e4a13bec56f6) 
 6. [rosedb 设计与实现Go夜读分享](https://www.bilibili.com/video/BV1ih411h7yC/?spm_id_from=333.337.search-card.all.click&vd_source=0989a2ca09448a0642a2e4a13bec56f6)
+7. [如何实现一个简单基于Bitcask的kv存储引擎](https://blog.csdn.net/LuciferMS/article/details/127947587?spm=1001.2014.3001.5502)
 
 ## 2. B+Tree
 1. [Boltdb](https://github.com/boltdb/bolt) 
