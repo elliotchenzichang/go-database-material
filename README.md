@@ -1,8 +1,9 @@
 # go-database-material
-这个项目主要是记录在学习数据库知识时，遇到的一些好的学习资料。
+这个项目主要记录在学习数据库知识时，遇到的一些好的学习资料。
 
 ## Database
 1. [pingcap数据库学习资料](https://github.com/pingcap/awesome-database-learning)
+2. [CMU 数据库系统课程](https://www.bilibili.com/video/BV1b44y1o7YH/?share_source=copy_web&vd_source=c4c33172b0b63f4ed3d6a29bfd461101)
 
 ## 磁盘和存储引擎综述
 1. [磁盘IO那些事](https://tech.meituan.com/2017/05/19/about-desk-io.html)
