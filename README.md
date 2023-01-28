@@ -29,3 +29,4 @@
 3. [goleveldb](https://github.com/syndtr/goleveldb) 
 4. [badgerdb](https://github.com/dgraph-io/badger) 
 5. [leveldb hand-book](https://leveldb-handbook.readthedocs.io/zh/latest/basic.html) 
+6. [LSM-Tree 论文翻译](https://github.com/tangwz/LSM-Tree-CN)
