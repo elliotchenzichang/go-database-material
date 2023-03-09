@@ -1,5 +1,5 @@
 # go-database-material
-这个项目主要记录在学习数据库知识时，遇到的一些好的学习资料。
+这个项目主要记录在学习数据库知识时，遇到的一些好的学习资料。包括一些比较推荐的数据库学习课程，Bitcask，LSM-Tree，B+Tree存储引擎论文以及对应Go开源实现。希望对你有所帮助。
 
 ## Database
 1. [pingcap数据库学习资料](https://github.com/pingcap/awesome-database-learning)
