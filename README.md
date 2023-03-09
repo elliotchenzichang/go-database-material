@@ -31,3 +31,4 @@
 5. [leveldb hand-book](https://leveldb-handbook.readthedocs.io/zh/latest/basic.html) 
 6. [LSM-Tree 论文翻译](https://github.com/tangwz/LSM-Tree-CN)
 7. [关于WicsKey的对话，知乎专栏](https://www.zhihu.com/column/c_1603024468401676288)
+8. [pebbledb](https://github.com/cockroachdb/pebble)
